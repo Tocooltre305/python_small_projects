@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2026-03-04",
+        "type": "income",
+        "category": "Salary",
+        "description": "Birthday Brunch",
+        "amount": 1000.0
+    },
+    {
+        "date": "2026-03-04",
+        "type": "expense",
+        "category": "Rent",
+        "description": "Retirement home",
+        "amount": 500.0
+    },
+    {
+        "date": "2026-03-04",
+        "type": "expense",
+        "category": "miscellaneous",
+        "description": "toys",
+        "amount": 600.0
+    },
+    {
+        "date": "2026-03-04",
+        "type": "income",
+        "category": "Pension",
+        "description": "Military pension",
+        "amount": 100000.0
+    }
+]

@@ -1,0 +1,6 @@
+P = float(input("Enter amount: "))
+R = float(input("Enter rate: ")) 
+T = float(input("Enter time: "))
+C = float(input("Enter compound: "))
+A = P * (1 + R / (100*C)) ** (C * T)
+print("Compound intrest is:", A)
